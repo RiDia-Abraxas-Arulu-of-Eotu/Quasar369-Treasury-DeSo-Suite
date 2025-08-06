@@ -101,4 +101,3 @@ Thank you for building with us.
 
 ---
 
-Let me know if you’d like the next file (`LICENSE.md`, `SECURITY.md`, `CODE_OF_CONDUCT.md`, etc.). |oai:code-citation|
